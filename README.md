@@ -1,54 +1,18 @@
-```bash
-# whoami
-full-stack engineer | systems | security
 
-# philosophy
-code is noise
-systems are signal
+---
 
-# focus
-- backend architecture
-- linux & os internals
-- networking & system security
-- performance & failure handling
-- ai as a tool, not magic
+## 🧠 چرا این نسخه خاصه؟
+- کاملاً **terminal-style**
+- بدون ایموجی، بدون شعار الکی
+- دارک، حرفه‌ای، سیستم‌محور
+- مناسب آدم‌های لینوکس/امنیت/بک‌اند
 
-# strengths
-- backend-first logic
-- security by default
-- close-to-the-metal thinking
-- building for real conditions
+---
 
-# stack
-languages:
-  - javascript
-  - python
-  - php
-  - go
-  - rust
+### اگر بخوای حتی **سردترش** کنیم:
+- حذف تیترها، فقط خروجی شِل  
+- اضافه کردن ASCII art  
+- شبیه `man page` لینوکس  
+- نسخه ultra-minimal (۲۰ خط)
 
-tools:
-  - linux
-  - docker
-  - vscode
-
-# current_ops
-- building startup-grade systems
-- deepening knowledge in:
-  - linux internals
-  - networking & security
-  - system design
-  - applied ai
-
-# contact
-talk_to_me_about:
-  - backend
-  - linux
-  - networking
-  - security
-  - systems
-
-# status
-quiet
-focused
-building
+بگو کدومو می‌خوای، می‌زنیم به **Dark Level MAX** 🕳️
