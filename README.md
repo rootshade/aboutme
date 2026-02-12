@@ -1,54 +1,49 @@
-```bash
-# whoami
-full-stack engineer | systems | security
+$ whoami
+full-stack engineer
 
-# philosophy
-code is noise
-systems are signal
+$ uname -a
+linux | networking | systems | security
 
-# focus
-- backend architecture
-- linux & os internals
-- networking & system security
-- performance & failure handling
-- ai as a tool, not magic
+$ cat about.txt
+I build systems that are meant to last.
+I care about how software behaves under load,
+under failure, and under attack.
 
-# strengths
-- backend-first logic
-- security by default
-- close-to-the-metal thinking
-- building for real conditions
+Trends fade.
+Systems remain.
 
-# stack
-languages:
-  - javascript
-  - python
-  - php
-  - go
-  - rust
+$ cat focus.txt
+- backend logic
+- system & network architecture
+- linux internals
+- security by design
+- performance & reliability
+- applied AI (as a tool)
 
-tools:
-  - linux
-  - docker
-  - vscode
+$ cat stack.txt
+Languages:
+  - JavaScript
+  - Python
+  - PHP
+  - Go
+  - Rust
 
-# current_ops
-- building startup-grade systems
-- deepening knowledge in:
-  - linux internals
-  - networking & security
-  - system design
-  - applied ai
+Environment:
+  - Linux
+  - Docker
+  - VS Code
 
-# contact
-talk_to_me_about:
-  - backend
-  - linux
-  - networking
-  - security
-  - systems
+$ cat mindset.txt
+Write less.
+Understand more.
+Trust systems, not assumptions.
 
-# status
-quiet
-focused
-building
+$ cat current_status.txt
+Building startup-grade systems.
+Digging deeper into OS, networking, and security.
+
+$ cat contact.txt
+If you build real systems,
+we probably speak the same language.
+
+$ exit
